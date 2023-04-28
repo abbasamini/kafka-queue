@@ -1,0 +1,17 @@
+{
+    "name": "abbasamini/kafka-queue",
+    "require": {
+        "laravel/framework": "^10.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Abbasamini\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abbas Amini",
+            "email": "abbasamini@outlook.com"
+        }
+    ]
+}
